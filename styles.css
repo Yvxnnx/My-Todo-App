@@ -1,0 +1,19 @@
+#btn-add {
+    background-color:#d6ce93;
+}
+
+#btn-clear-all {
+    background-color:#bb8588;
+} 
+
+#todo-wrapper {
+    background-color:#efebce;
+}
+
+#todo-list li:nth-child(even) {
+    background-color: #d8a48f !important; 
+}
+
+#todo-list li:nth-child(odd) {
+    background-color: #f7e1d7 !important; 
+}
